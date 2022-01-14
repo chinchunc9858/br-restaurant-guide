@@ -6,4 +6,4 @@ Select a specific Asian food:
 ## [Bayridge Sushi](http://www.brsushi.com/)
 ## [Glow Thai](http://glowthai.com/)
 ---
-Start Over
+[Start Over](../home.md)
